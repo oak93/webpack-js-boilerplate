@@ -7,7 +7,7 @@ A boilerplate to create Javascript libraries. Includes all needed development de
 Install the all dependencies.
 
 ```sh
-$ cd web-ui-boilerplate
+$ cd webpack-js-boilerplate
 $ npm install
 ```
 
